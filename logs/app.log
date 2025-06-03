@@ -1,0 +1,217 @@
+[2025-06-02T21:30:49.853360600] INFO: Application started
+[2025-06-02T21:30:51.097359400] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-02T21:30:56.428469500] INFO: Application started
+[2025-06-02T21:30:58.426466800] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-02T21:31:24.013439800] INFO: Application started
+[2025-06-02T21:31:25.133437] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-02T21:31:34.192996800] INFO: Login failed for username: jdahs - Exception: MySQL JDBC Driver not found
+[2025-06-02T21:33:01.558704] INFO: Login failed for username: admin01 - Exception: MySQL JDBC Driver not found
+[2025-06-02T22:20:03.023765200] INFO: Application started
+[2025-06-02T22:20:04.639762500] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-02T22:20:32.625817900] INFO: Login failed for username: admin01 - Exception: MySQL JDBC Driver not found
+[2025-06-03T00:14:55.459896200] INFO: Application started
+[2025-06-03T00:14:57.036894400] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:35:21.588921400] INFO: Application started
+[2025-06-03T00:35:23.024922200] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:35:34.535934300] INFO: Login failed for username: admin01 - Exception: CNIC cannot be null or empty
+[2025-06-03T00:35:41.273159600] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T00:35:52.692454300] INFO: Registration failed: Required fields are missing
+[2025-06-03T00:35:54.195794700] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:36:09.987010700] INFO: Login failed for username: admin01 - Exception: CNIC cannot be null or empty
+[2025-06-03T00:38:05.165395500] INFO: Application started
+[2025-06-03T00:38:06.566395100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:38:19.808654200] INFO: Login failed for username: admin01 - Exception: Email cannot be null or empty
+[2025-06-03T00:39:55.338808900] INFO: Application started
+[2025-06-03T00:39:56.764807100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:40:07.580084800] INFO: User found by username: admin01
+[2025-06-03T00:40:07.596085] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:40:07.598087400] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:40:15.972800600] INFO: User found by username: admin01
+[2025-06-03T00:40:15.974802800] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:40:15.975803900] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:41:28.023923600] INFO: User found by username: admin01
+[2025-06-03T00:41:28.023923600] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:41:28.028975300] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:41:45.377382800] INFO: User found by username: admin01
+[2025-06-03T00:41:45.387634200] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:41:45.387634200] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:46:41.556364300] INFO: Application started
+[2025-06-03T00:46:42.985363100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:46:53.980533700] INFO: User found by username: admin01
+[2025-06-03T00:46:54.000534700] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=adminpass
+[2025-06-03T00:46:54.001536600] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:46:54.003538100] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:53:44.631725600] INFO: Application started
+[2025-06-03T00:53:46.218732400] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T00:53:59.770509800] INFO: User found by username: admin01
+[2025-06-03T00:53:59.788512100] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=adminpass
+[2025-06-03T00:53:59.789515100] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T00:53:59.791513900] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T00:54:01.453439100] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T00:54:40.937140200] INFO: User not found by username: plcahmadjawad
+[2025-06-03T00:54:40.945158100] INFO: Registration error: CNIC must be in the format 35202-1234567-1
+[2025-06-03T01:04:08.999298100] INFO: Application started
+[2025-06-03T01:04:10.552295] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:04:14.108710400] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T01:04:55.087340100] INFO: Registration error: CNIC must be in the format 35202-1234567-1
+[2025-06-03T01:05:31.798190500] INFO: Application started
+[2025-06-03T01:05:33.231186600] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:05:35.519190900] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T01:06:03.598359300] INFO: Registration error: Data truncation: Data too long for column 'cnic' at row 1
+[2025-06-03T01:08:04.333479] INFO: Application started
+[2025-06-03T01:08:05.669476300] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:08:31.956589200] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T01:08:52.373043100] INFO: Registration error: No value specified for parameter 5
+[2025-06-03T01:09:43.845774] INFO: Application started
+[2025-06-03T01:09:45.299776] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:09:59.478029300] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=adminpass
+[2025-06-03T01:09:59.479034100] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T01:09:59.481025900] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T01:11:25.183422600] INFO: Application started
+[2025-06-03T01:11:26.535421200] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:11:28.904431200] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T01:11:49.547452200] INFO: User not found by username: plcahmadjawad
+[2025-06-03T01:11:49.641451400] INFO: User created in database: plcahmadjawad
+[2025-06-03T01:11:49.644454200] INFO: User registered successfully: plcahmadjawad, Role: Police
+[2025-06-03T01:11:49.653454] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:12:03.038902100] INFO: User found by username: plcahmadjawad
+[2025-06-03T01:12:03.040903500] INFO: Comparing passwords for user 'plcahmadjawad': entered=hashed_jawad, stored=hashed_jawad
+[2025-06-03T01:12:03.042903] INFO: Login successful: plcahmadjawad, Role: Police
+[2025-06-03T01:12:03.043901] INFO: Login successful for username: plcahmadjawad, role: Police
+[2025-06-03T01:12:03.062905300] INFO: Login failed for username: plcahmadjawad - Exception: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+[2025-06-03T01:36:46.270655400] INFO: Application started
+[2025-06-03T01:36:47.754659900] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:36:58.221879800] INFO: User found by username: admin01
+[2025-06-03T01:36:58.241884300] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=adminpass
+[2025-06-03T01:36:58.244883800] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T01:36:58.246885900] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T01:45:17.663090900] INFO: Application started
+[2025-06-03T01:45:19.072090300] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:45:29.359871200] INFO: User found by username: admin01
+[2025-06-03T01:45:29.379865700] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=adminpass
+[2025-06-03T01:45:29.381864400] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T01:45:29.383865900] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T01:45:40.464737100] INFO: Application started
+[2025-06-03T01:45:42.005733800] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:45:45.044628100] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T01:46:00.268644400] INFO: Registration failed: You're going against legal act
+[2025-06-03T01:46:00.270639200] INFO: Registration failed: Police username 'ads' does not start with 'plc'
+[2025-06-03T01:46:00.271643200] INFO: Registration error: Police username must start with 'plc' (e.g., plc001)
+[2025-06-03T01:46:03.091071200] INFO: Registration failed: You're going against legal act
+[2025-06-03T01:46:03.091071200] INFO: Registration failed: Police username 'ads' does not start with 'plc'
+[2025-06-03T01:46:03.093072700] INFO: Registration error: Police username must start with 'plc' (e.g., plc001)
+[2025-06-03T01:46:14.945372700] INFO: User not found by username: plcjawad
+[2025-06-03T01:46:15.008373] INFO: User created in database: plcjawad
+[2025-06-03T01:46:15.010374] INFO: User registered successfully: plcjawad, Role: Police
+[2025-06-03T01:46:15.018373800] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T01:46:25.729041700] INFO: User found by username: plcjawad
+[2025-06-03T01:46:25.731068400] INFO: Comparing passwords for user 'plcjawad': entered=hashed_jawad, stored=hashed_jawad
+[2025-06-03T01:46:25.732049200] INFO: Login successful: plcjawad, Role: Police
+[2025-06-03T01:46:25.733045800] INFO: Login successful for username: plcjawad, role: Police
+[2025-06-03T01:46:25.747567100] INFO: Login failed for username: plcjawad - Exception: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+[2025-06-03T07:18:12.491022400] INFO: Application started
+[2025-06-03T07:18:14.037018600] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:18:37.587806] INFO: User found by username: admin01
+[2025-06-03T07:18:37.605801700] INFO: Comparing passwords for user 'admin01': entered=hashed_hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:18:37.606799200] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T07:18:37.608806400] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T07:19:50.004375700] INFO: Application started
+[2025-06-03T07:19:51.758373300] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:19:58.150775500] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T07:20:24.021756400] INFO: User not found by username: plcjay
+[2025-06-03T07:20:24.074753700] INFO: User created in database: plcjay
+[2025-06-03T07:20:24.076757600] INFO: User registered successfully: plcjay, Role: Police
+[2025-06-03T07:20:24.082754900] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:20:37.294288300] INFO: User found by username: plcjay
+[2025-06-03T07:20:37.296312500] INFO: Comparing passwords for user 'plcjay': entered=hashed_jawad, stored=hashed_jawad
+[2025-06-03T07:20:37.297314700] INFO: Login successful: plcjay, Role: Police
+[2025-06-03T07:20:37.298317500] INFO: Login successful for username: plcjay, role: Police
+[2025-06-03T07:20:37.313494500] INFO: Login failed for username: plcjay - Exception: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+[2025-06-03T07:28:04.756720800] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T07:28:36.731945700] INFO: User not found by username: crmjay
+[2025-06-03T07:28:36.746948800] INFO: User created in database: crmjay
+[2025-06-03T07:28:36.747943600] INFO: User registered successfully: crmjay, Role: Criminal
+[2025-06-03T07:28:36.752943800] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:28:45.477753700] INFO: User found by username: crmjay
+[2025-06-03T07:28:45.478764300] INFO: Comparing passwords for user 'crmjay': entered=hashed_jawad, stored=hashed_jawad
+[2025-06-03T07:28:45.479753400] INFO: Login successful: crmjay, Role: Criminal
+[2025-06-03T07:28:45.480776800] INFO: Login successful for username: crmjay, role: Criminal
+[2025-06-03T07:28:45.488884100] INFO: Login failed for username: crmjay - Exception: Cannot invoke "java.net.URL.toExternalForm()" because the return value of "java.lang.Class.getResource(String)" is null
+[2025-06-03T07:37:13.487521400] INFO: Application started
+[2025-06-03T07:37:14.866521200] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:37:29.458681] INFO: User found by username: admin01
+[2025-06-03T07:37:29.474682600] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:37:29.476680300] INFO: Login successful: admin01, Role: Admin
+[2025-06-03T07:37:29.477684500] INFO: Login successful for username: admin01, role: Admin
+[2025-06-03T07:37:29.507687200] INFO: Warning: styles.css not found in AdminDashboard, proceeding without stylesheet
+[2025-06-03T07:37:33.593518500] INFO: Retrieved 23 users from database
+[2025-06-03T07:38:23.395160200] INFO: User found by username: crmjay
+[2025-06-03T07:38:31.688603100] INFO: User not found by username: plc01
+[2025-06-03T07:40:52.879567900] INFO: Application started
+[2025-06-03T07:40:55.225566400] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:41:48.143895200] INFO: User found by username: admin01
+[2025-06-03T07:41:48.161894400] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:41:48.163895400] INFO: Login successful: admin01, Role: Admin
+[2025-06-03T07:41:48.164891100] INFO: Login successful for username: admin01, role: Admin
+[2025-06-03T07:41:48.186894] INFO: Warning: styles.css not found in AdminDashboard, proceeding without stylesheet
+[2025-06-03T07:41:49.816865] INFO: Retrieved 23 users from database
+[2025-06-03T07:42:02.870592100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:42:05.071740400] INFO: Warning: styles.css not found in SignupScreen, proceeding without stylesheet
+[2025-06-03T07:42:34.994524600] INFO: User not found by username: crmjutt
+[2025-06-03T07:42:35.027549400] INFO: User created in database: crmjutt
+[2025-06-03T07:42:35.029532500] INFO: User registered successfully: crmjutt, Role: Criminal
+[2025-06-03T07:42:35.033528600] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:42:42.385652700] INFO: User found by username: crmjutt
+[2025-06-03T07:42:42.387654300] INFO: Comparing passwords for user 'crmjutt': entered=hashed_jawad, stored=hashed_jawad
+[2025-06-03T07:42:42.388652] INFO: Login successful: crmjutt, Role: Criminal
+[2025-06-03T07:42:42.388652] INFO: Login successful for username: crmjutt, role: Criminal
+[2025-06-03T07:42:42.397658800] INFO: Warning: styles.css not found in CriminalDashboard, proceeding without stylesheet
+[2025-06-03T07:44:20.844492600] INFO: Application started
+[2025-06-03T07:44:22.287489800] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:44:35.743859100] INFO: User found by username: police01
+[2025-06-03T07:44:35.761862800] INFO: Comparing passwords for user 'police01': entered=hashed_pass123, stored=pass123
+[2025-06-03T07:44:35.762862100] INFO: Login failed: Invalid password for user 'police01'
+[2025-06-03T07:44:35.765862100] INFO: Login failed for username: police01 - Exception: Invalid password
+[2025-06-03T07:44:46.333390] INFO: User found by username: police01
+[2025-06-03T07:44:46.335393100] INFO: Comparing passwords for user 'police01': entered=hashed_hashed_pass123, stored=pass123
+[2025-06-03T07:44:46.336389900] INFO: Login failed: Invalid password for user 'police01'
+[2025-06-03T07:44:46.337393100] INFO: Login failed for username: police01 - Exception: Invalid password
+[2025-06-03T07:45:01.941726700] INFO: User found by username: admin01
+[2025-06-03T07:45:01.943727700] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:45:01.944729600] INFO: Login successful: admin01, Role: Admin
+[2025-06-03T07:45:01.945723500] INFO: Login successful for username: admin01, role: Admin
+[2025-06-03T07:45:01.961721100] INFO: Warning: styles.css not found in AdminDashboard, proceeding without stylesheet
+[2025-06-03T07:49:34.547955100] INFO: Application started
+[2025-06-03T07:49:35.818954500] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:51:49.212851300] INFO: User found by username: admin01
+[2025-06-03T07:51:49.233854400] INFO: Comparing passwords for user 'admin01': entered=hashed_hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:51:49.235851700] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T07:51:49.237855300] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T07:52:01.481386300] INFO: User found by username: admin01
+[2025-06-03T07:52:01.482386800] INFO: Comparing passwords for user 'admin01': entered=hashed_hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:52:01.483388900] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T07:52:01.484384100] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T07:52:12.395905400] INFO: User found by username: admin01
+[2025-06-03T07:52:12.397903300] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:52:12.398928100] INFO: Login successful: admin01, Role: Admin
+[2025-06-03T07:52:12.399928600] INFO: Login successful for username: admin01, role: Admin
+[2025-06-03T07:52:12.415903300] INFO: Warning: styles.css not found in AdminDashboard, proceeding without stylesheet
+[2025-06-03T07:53:19.026689200] INFO: Application started
+[2025-06-03T07:53:20.547685100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:53:37.201380600] INFO: User found by username: admin01
+[2025-06-03T07:53:37.219384600] INFO: Comparing passwords for user 'admin01': entered=hashed_hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:53:37.220381400] INFO: Login failed: Invalid password for user 'admin01'
+[2025-06-03T07:53:37.222382400] INFO: Login failed for username: admin01 - Exception: Invalid password
+[2025-06-03T07:53:50.819530500] INFO: User found by username: admin01
+[2025-06-03T07:53:50.821530500] INFO: Comparing passwords for user 'admin01': entered=hashed_adminpass, stored=hashed_adminpass
+[2025-06-03T07:53:50.821530500] INFO: Login successful: admin01, Role: Admin
+[2025-06-03T07:53:50.823531100] INFO: Login successful for username: admin01, role: Admin
+[2025-06-03T07:53:50.837528700] INFO: Warning: styles.css not found in AdminDashboard, proceeding without stylesheet
+[2025-06-03T07:53:56.298983100] INFO: Warning: styles.css not found, proceeding without stylesheet
+[2025-06-03T07:54:06.319566600] INFO: User found by username: police01
+[2025-06-03T07:54:06.321559500] INFO: Comparing passwords for user 'police01': entered=hashed_pass123, stored=hashed_pass123
+[2025-06-03T07:54:06.322566] INFO: Login successful: police01, Role: Police
+[2025-06-03T07:54:06.323564600] INFO: Login successful for username: police01, role: Police
+[2025-06-03T07:54:06.335149700] INFO: Warning: styles.css not found in PoliceDashboard, proceeding without stylesheet
+2025-06-03T08:21:23.540400700 [INFO] Application started
+2025-06-03T08:21:24.960403 [INFO] Warning: styles.css not found, proceeding without stylesheet
